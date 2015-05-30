@@ -1,7 +1,7 @@
 # MediaCommons
 A collection of useful utilities written in the Java programming language.
 
-[![Media Commons](misc/background.png)](https://github.com/CS56/MediaCommons/releases)
+[![Media Commons](misc/Background.png)](https://github.com/CS56/MediaCommons/releases)
 
 ## Overview
 This repository was written for a Spring Java Programming class. The goal of the project was to provide useful features the end user could use (security, weather, information etc).
